@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ishanomase
-- 👀 I’m interested in ML&AI
+- 👀 I’m interested in Software Devlopment.
 - 🌱 I’m currently a Mechanical Engineering Student.
-- 💞️ I’m looking to collaborate on ML/AI projects using Python.
+- 💞️ I’m looking for beginner projects in softawre development using Java and Python.
 - 📫 How to reach me omaseishan4@gmail.com
 <!---
 ishanomase/ishanomase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
