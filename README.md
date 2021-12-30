@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ishanomase
+- 👋 Hi, I am Ishan Omase.
 - 👀 I’m interested in Software Devlopment.
 - 🌱 I’m currently a Mechanical Engineering Student.
 - 💞️ I’m looking for beginner projects in software development using Java and Python.
