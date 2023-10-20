@@ -1,6 +1,6 @@
 - 👋 Hi, I am Ishan Omase.
 - 👀 I’m interested in Software Devlopment.
-- 🌱 I’m currently a Mechanical Engineering Student.
+- 🌱 I have completed my Bachelor's in Mechanical Engineering.
 - 💞️ I’m looking for beginner projects in software development using Java, C++ .
 - 📫 How to reach me omaseishan4@gmail.com
 <!---
